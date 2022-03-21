@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 正经人王同学的博客
 
 You can use the [editor on GitHub](https://github.com/causalwyf/wtxdeblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
